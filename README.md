@@ -10,4 +10,4 @@ I'm a Front-End Developer and Petroleum Engineer from Mexico. I'm currently work
 
 ## Find me on:
 - <a href="https://www.linkedin.com/in/eduardo-beltr%C3%A1n-1b620a213/" target="_blank">LinkedIn</a>
-- <a href="https:https://eduardobeltran.net/" target="_blank">eduardo.beltran.net</a> 
+- <a href="https://eduardobeltran.net/" target="_blank">eduardobeltran.net</a> 
